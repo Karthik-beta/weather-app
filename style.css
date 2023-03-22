@@ -12,6 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     background: #06283D;
+    background: linear-gradient(to right,#9a1d86, #1595be);
 }
 
 .container{
@@ -24,6 +25,7 @@ body{
     border-radius: 18px;
     font-family: 'Roboto', sans-serif;
     transition: 0.6s ease-out;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
 .search-box{
