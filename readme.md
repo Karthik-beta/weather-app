@@ -2,6 +2,8 @@
 
 This Weather App is a web application built using HTML, CSS, and JavaScript. It allows users to check the current weather conditions, such as temperature, humidity, and wind speed, of any location they enter. The weather data is fetched from the OpenWeatherMap API.
 
+![Screenshot](images/Weather.png)
+
 ## Features
 
 * Display the current weather conditions, such as temperature, humidity, and wind speed, of any location the user enters.
@@ -10,13 +12,13 @@ This Weather App is a web application built using HTML, CSS, and JavaScript. It 
 
 ## Demo
 
-You can see a live demo of the Weather App [here]
+You can see a live demo of the Weather App [here](https://karthik-beta.github.io/weather-app/).
 
 ## Getting Started
 
 To get a local copy of the project, you can clone the repository using git:
 
-git clone : `https://github.com/Karthik-beta/weather-app.git`
+git clone : `https://karthik-beta.github.io/weather-app.git`
 
 Once you have cloned the repository, you can open the index.html file in a web browser to use the app. Don't forget to replace the apiKey variable in the `script.js` file with your own OpenWeatherMap API key.
 
