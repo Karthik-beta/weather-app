@@ -1,4 +1,4 @@
-# Weather App Readme
+# Weather App 
 
 This Weather App is a web application built using HTML, CSS, and JavaScript. It allows users to check the current weather conditions, such as temperature, humidity, and wind speed, of any location they enter. The weather data is fetched from the OpenWeatherMap API.
 
